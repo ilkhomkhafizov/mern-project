@@ -1,6 +1,0 @@
-{
-  "port": 5000,
-  "jwtSecret": "ilkhom mern project",
-  "mongoUri": "mongodb+srv://ilkhom:ilhombek777@cluster0-z1xzb.azure.mongodb.net/app?retryWrites=true&w=majority",
-  "baseUrl": "http://localhost:5000"
-}
